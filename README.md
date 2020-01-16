@@ -1,4 +1,4 @@
-# auth
+# Todo List and Authentication
 Hi, 
 This is a todo list project made with VueJs, Vuex, Vue Router and Firebase(Authentication and Cloud Firestore).
 
